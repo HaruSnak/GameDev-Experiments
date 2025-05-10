@@ -1,4 +1,4 @@
-<img src="readme/CPP-Modules.png" alt="CPP-Modules" width="900"/>
+<img src="screenshots/UEFN.png" alt="UEFN" width="900"/>
 
 # 🏄 AquaBlasters
 
