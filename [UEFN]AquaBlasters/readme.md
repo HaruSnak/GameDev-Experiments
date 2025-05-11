@@ -203,11 +203,9 @@ Et si tu lis ça, **c’est que tu fais un bout du chemin avec moi**.
 
 ### 🔹 Game World
 
-![Lobby Screenshot](./screenshots/lobby.png)
-*The lobby where teams prepare before launching into battle.*
+https://github.com/user-attachments/assets/a85f0969-46ad-467d-9ea7-ba543326b85c
 
-![Surf Combat](./screenshots/combat.png)
-*Combat on water, with unique movement and verticality.*
+*Video showing the different maps and game mechanics*
 
 ---
 
