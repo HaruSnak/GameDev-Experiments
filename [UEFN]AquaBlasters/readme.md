@@ -207,11 +207,18 @@ https://github.com/user-attachments/assets/a85f0969-46ad-467d-9ea7-ba543326b85c
 
 *Video showing the different maps and game mechanics*
 
+![image](https://github.com/user-attachments/assets/c10311de-b8dc-48ee-b480-73b3e6a403dd)
+
+*Contextual image of the editor*
+
 ---
+
+### 🔹 Statistics today
+
+![Stats Screenshot](./screenshots/stats.png) <br>
 
 ### 🔹 Statistics (Launch Day)
 
-![Stats Screenshot](./screenshots/stats.png) <br>
 *A snapshot from August 30, 2024.*--- <br>
 
 - 👥 **921 Active Players**
