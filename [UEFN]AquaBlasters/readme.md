@@ -88,7 +88,7 @@ One of my biggest challenges? **Still being a student**, torn between:
 - school obligations
 - personal projects
 - moving
-- and trying to **pay rent**
+- and trying to **pay rent** x)
 
 ---
 
@@ -175,10 +175,7 @@ Ce projet, que je considère comme un **simple prototype**, m’a montré que le
 Il suffit de **s’engager à fond**.
 
 > **Aujourd’hui, je poursuis mon cursus à 42. Et pour être honnête :**  
-> J’ai la rage d’apprendre.  
-> Je veux **créer**, **comprendre**, et **me spécialiser** —  
-> dans le **game dev** que je porte dans le cœur,  
-> comme dans la **cybersécurité** qui m’attire professionnellement.
+> J’ai la rage d’apprendre. 
 
 ---
 
@@ -189,7 +186,7 @@ L’une des plus grosses ? **Être encore étudiant**, jonglant entre :
 - études
 - projets persos
 - déménagement
-- et **recherche d’un job** pour payer mon loyer
+- et **recherche d’un job** pour payer mon loyer x)
 
 ---
 
